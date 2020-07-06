@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5738e97a7337d4e481d857ae04ddf447",
+    "revision": "3d01006883facc6da33803d0ea02adf4",
     "url": "/chuck-norris-jokes/index.html"
   },
   {
