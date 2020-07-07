@@ -30,7 +30,6 @@ function App() {
         <div className="joke" dangerouslySetInnerHTML={{__html: joke}}>
           
         </div>
-        <p>tal</p>
         <button className="generate-joke-btn" onClick={changeJoke}>New Joke</button>
       </div>
     </>
