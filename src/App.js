@@ -28,7 +28,7 @@ function App() {
       <div className="joke-container">
         <div className="title">The Funniest Joke Ever</div>
         <div className="joke">
-          {joke}
+          {joke} {joke}
         </div>
         <button className="generate-joke-btn" onClick={changeJoke}>New Joke</button>
       </div>
